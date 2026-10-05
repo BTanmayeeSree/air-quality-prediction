@@ -1,0 +1,5 @@
+{
+  "best_model": "Random Forest (tuned)",
+  "selection_metric": "mean 5-fold cross-validation R2 on training split",
+  "cv_r2": 0.6825589534332417
+}
